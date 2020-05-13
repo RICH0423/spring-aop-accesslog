@@ -20,6 +20,6 @@ Implement accessLog policy
 <dependency>
     <groupId>com.github.RICH0423</groupId>
     <artifactId>spring-aop-accesslog</artifactId>
-    <version>Tag</version>
+    <version>1.0.0.RELEASE</version>
 </dependency>
 ```
